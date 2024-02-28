@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "instructions_private.h": "c",
+        "chip8_def.h": "c",
+        "chip8.h": "c",
+        "stdlib.h": "c",
+        "chip8_private.h": "c",
+        "cstdlib": "c",
+        "cstdint": "c",
+        "display_port.h": "c",
+        "display_def.h": "c",
+        "display.h": "c",
+        "instructions.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "keypad_port.h": "c"
+    }
+}
